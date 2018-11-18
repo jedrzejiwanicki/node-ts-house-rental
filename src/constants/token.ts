@@ -1,0 +1,1 @@
+export const TOKEN_LIFE_TIME_S: number = 3600;

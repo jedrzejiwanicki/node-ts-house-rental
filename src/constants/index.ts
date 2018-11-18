@@ -1,0 +1,1 @@
+export const hashSaltRounds: number = 10;
